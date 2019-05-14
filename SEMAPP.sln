@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMAPP.Android", "SEMAPP.Android\SEMAPP.Android.csproj", "{71293574-A88F-4459-A6E8-6962D3A2D6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMAPP", "SEMAPP\SEMAPP.csproj", "{C01D9E07-C746-45EA-918C-A87D0280E77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beans", "Beans\Beans.csproj", "{14BB6AB3-15AB-42E6-ABE3-70E0E41E6C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71293574-A88F-4459-A6E8-6962D3A2D6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71293574-A88F-4459-A6E8-6962D3A2D6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71293574-A88F-4459-A6E8-6962D3A2D6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71293574-A88F-4459-A6E8-6962D3A2D6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01D9E07-C746-45EA-918C-A87D0280E77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01D9E07-C746-45EA-918C-A87D0280E77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01D9E07-C746-45EA-918C-A87D0280E77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01D9E07-C746-45EA-918C-A87D0280E77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BB6AB3-15AB-42E6-ABE3-70E0E41E6C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BB6AB3-15AB-42E6-ABE3-70E0E41E6C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BB6AB3-15AB-42E6-ABE3-70E0E41E6C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BB6AB3-15AB-42E6-ABE3-70E0E41E6C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

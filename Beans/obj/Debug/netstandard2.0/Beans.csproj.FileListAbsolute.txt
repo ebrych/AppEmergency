@@ -1,0 +1,16 @@
+/Users/Eber/Documents/NetCoreProjects/Mobile/SEMAPP/Beans/bin/Debug/netstandard2.0/Beans.deps.json
+/Users/Eber/Documents/NetCoreProjects/Mobile/SEMAPP/Beans/bin/Debug/netstandard2.0/Beans.dll
+/Users/Eber/Documents/NetCoreProjects/Mobile/SEMAPP/Beans/bin/Debug/netstandard2.0/Beans.pdb
+/Users/Eber/Documents/NetCoreProjects/Mobile/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.csproj.CoreCompileInputs.cache
+/Users/Eber/Documents/NetCoreProjects/Mobile/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.AssemblyInfoInputs.cache
+/Users/Eber/Documents/NetCoreProjects/Mobile/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.AssemblyInfo.cs
+/Users/Eber/Documents/NetCoreProjects/Mobile/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.dll
+/Users/Eber/Documents/NetCoreProjects/Mobile/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.pdb
+/Users/Eber/Documents/NetCoreProjects/Mobile/Emergencias/SEMAPP/Beans/bin/Debug/netstandard2.0/Beans.deps.json
+/Users/Eber/Documents/NetCoreProjects/Mobile/Emergencias/SEMAPP/Beans/bin/Debug/netstandard2.0/Beans.dll
+/Users/Eber/Documents/NetCoreProjects/Mobile/Emergencias/SEMAPP/Beans/bin/Debug/netstandard2.0/Beans.pdb
+/Users/Eber/Documents/NetCoreProjects/Mobile/Emergencias/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.csproj.CoreCompileInputs.cache
+/Users/Eber/Documents/NetCoreProjects/Mobile/Emergencias/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.AssemblyInfoInputs.cache
+/Users/Eber/Documents/NetCoreProjects/Mobile/Emergencias/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.AssemblyInfo.cs
+/Users/Eber/Documents/NetCoreProjects/Mobile/Emergencias/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.dll
+/Users/Eber/Documents/NetCoreProjects/Mobile/Emergencias/SEMAPP/Beans/obj/Debug/netstandard2.0/Beans.pdb
